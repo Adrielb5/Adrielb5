@@ -1,7 +1,7 @@
 ### Olá! Sou Adriel Batista 👋
   
- 👨‍🏭 Atualmente trabalho como almoxarife;
-  📚 Estou cursando TI, e pretendo migrar para area 
+- 👨‍🏭 Atualmente trabalho como almoxarife;
+- 📚 Estou cursando TI, e pretendo migrar para area 
 - 👯 Vou procurar colaborar com projetos front-end
 - 🤔 Procuro ajuda em conteúdos back-end...
 - 💬 Amo ler! 
