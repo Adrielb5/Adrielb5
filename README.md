@@ -17,7 +17,7 @@
   <img align="center" alt="Adriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   </div>
   
-  <br>
+  <hr>
   
   <div>
       <a href="mailto:adrielbsilva@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
