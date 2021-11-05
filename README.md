@@ -4,7 +4,7 @@
 - 📚 Estou cursando TI, e pretendo migrar para area 
 - 👯 Vou procurar colaborar com projetos front-end
 - 🤔 Procuro ajuda em conteúdos back-end...
-- 💬 Amo ler! 
+- 💬 Amo ler e café! 
 - ⚡ Fun fact: Gosto de jogar sinuca
 
 <a href="https://github.com/Adrielb5">
